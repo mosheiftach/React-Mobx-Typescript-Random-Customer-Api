@@ -1,4 +1,4 @@
-### React TypeScript MobX Web App
+# React TypeScript MobX Web App
 
 ## Introduction
 
