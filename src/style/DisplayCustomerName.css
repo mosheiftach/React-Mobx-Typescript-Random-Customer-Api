@@ -1,0 +1,10 @@
+.list {
+
+    list-style: none;
+    width: 200px;
+    max-width: 90%;
+}
+
+.disply-main-wrapper{
+    color:var(--text-color);
+}
